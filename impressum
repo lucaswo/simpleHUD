@@ -1,0 +1,47 @@
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Impressum</title>
+    <link rel="stylesheet" href="stylesheets/normalize.css">
+    <link rel="stylesheet" href="stylesheets/foundation.css">
+    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+</head>
+<body>
+    <header>
+        <h2>
+            <a href="simpleHUD">
+            simpleHUD
+            </a>
+        </h2>
+        <h4>A DIY HUD</h4> 
+    </header>
+    <div class="row">
+        <div class="large-12 columns">
+            <div class="post">
+                <h2>Impressum</h2>
+                <div class="headline">Contact</div>
+                <div class="entry">
+                    <i>
+                    Lucas Woltmann <br>
+                    Zellescher Weg 41b <br>
+                    01217 Dresden <br>
+                    (at) (dot) de
+                    </i>
+                </div>
+                <div class="headline">Haftungsausschluss</div>
+                <div class="entry">
+                    <i>
+                    Für alle externen Links gilt: Ich habe keinen Einfluss auf Inhalte und Gestaltung dieser verlinkten Seiten und distanziere mich von diesen. Ich übernehme keine Garantie für die Richtigkeit sowohl eigener als auch fremder Inhalte. <br>
+                    Alle aufgeführten Marken sind Eigentum der jeweiligen Markeninhaber. <br>
+                    Ich übernehme keine Haftung für die Nutzung der aufgeführten Systeme oder Technik <br>
+                    Kostennoten einer anwaltlichen Abmahnung ohne vorhergehende Kontaktaufnahme werden im Sinne der Schadensminderungspflicht als unbegründet zurückgewiesen.
+                    </i>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        Header image by <a href="https://dirko.net">dirko</a>. All images are licenced under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
+    </footer>  
+</body>
+</html>
