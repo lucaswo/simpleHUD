@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
 body {
 	background-color: #111;
 	font-family: "Open Sans";
@@ -83,4 +85,5 @@ img {
 	margin-right: 10px;
 	margin-bottom: 20px;
 	font-style: italic;
+	color: #555;
 }
